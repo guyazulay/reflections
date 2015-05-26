@@ -5,3 +5,7 @@ this hidden folder consist the whole history and saves all the changes happened 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is in the "middle" - between the working directory and the repository. It give us the option
 to track a file and make it as a potential for commit changes.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can compare the staging area to the curent working directory and/or to the last commit.
+If the diff between the staging area and the last commit is only one logical change , i cancontinue with the next commit.
