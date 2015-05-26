@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+when initializing a repository , a new (hidden) folder is created. It's name is .git.
+this hidden folder consist the whole history and saves all the changes happened since git was initialized.
+
