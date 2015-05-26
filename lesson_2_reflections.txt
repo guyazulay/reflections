@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 when initializing a repository , a new (hidden) folder is created. It's name is .git.
 this hidden folder consist the whole history and saves all the changes happened since git was initialized.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is in the "middle" - between the working directory and the repository. It give us the option
+to track a file and make it as a potential for commit changes.
