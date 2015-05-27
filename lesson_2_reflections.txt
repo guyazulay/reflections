@@ -20,3 +20,7 @@ What is the result of merging two branches together? Why do we represent it in t
 The result of merging two branches is a new "merged" branch which consist of the last commits of the two branches ( plus the 
 last commit which is shred between these 2 branches).
 we represent it in that way because its easy to see what are the commits of each branch ans which is the parent of each one.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+automatic merge saves the user a lot of time with things that he shouldn't pay attenntion to them.
+doing merging manually ia very annoying, but sometimes we don't have another option. we should strive for automaticaly changesas much as possible. 
