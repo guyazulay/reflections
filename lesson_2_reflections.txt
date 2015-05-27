@@ -15,3 +15,8 @@ branch will be very hekpfull when we will want to make a big change/ insert new 
 Parallel, we still want to fix and develop our code so we continue to do so in the main branch.
 Another situation of creating a side branch is when we would like to present some new feature ( or a customed feature) to some client.
 so we will do it seperately and then, further, we will merge it to the main code.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result of merging two branches is a new "merged" branch which consist of the last commits of the two branches ( plus the 
+last commit which is shred between these 2 branches).
+we represent it in that way because its easy to see what are the commits of each branch ans which is the parent of each one.
